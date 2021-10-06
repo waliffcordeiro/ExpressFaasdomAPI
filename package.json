@@ -1,0 +1,25 @@
+{
+  "name": "ExpressFaasdomAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waliffcordeiro/ExpressFaasdomAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waliffcordeiro/ExpressFaasdomAPI/issues"
+  },
+  "homepage": "https://github.com/waliffcordeiro/ExpressFaasdomAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "performance-now": "^2.1.0",
+    "rimraf": "^3.0.2"
+  }
+}
